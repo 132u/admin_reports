@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31867953650",
+    "project_id": "admin-reports-b0665",
+    "storage_bucket": "admin-reports-b0665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31867953650:android:1fda7f9acf97179c688b6b",
+        "android_client_info": {
+          "package_name": "com.example.auth_showcasing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkOapAetmroJYPYtmoW_ECS7GgX6BDhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
